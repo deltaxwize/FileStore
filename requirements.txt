@@ -1,6 +1,7 @@
+git+https://github.com/ps-updates/pyrogram
 aiohttp
 dnspython
-pyrofork
+pyrofork==2.3.50
 humanize
 psutil
 motor
